@@ -16,3 +16,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 8. 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
 
 9. 8-firstdelete deletes the file betty in /tmp/my_first_directory
+
+10. 9-firstdirdeletion deletes my_first_directory from /tmp/ directory
