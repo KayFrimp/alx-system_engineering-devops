@@ -20,3 +20,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 10. 9-firstdirdeletion deletes my_first_directory from /tmp/ directory
 
 11. 10-back changes the working directory to the previous one
+
+12. 11-lists lists all files(even ones starting with a period character in the current directory, the parent directory and the /boot directory(in this order) in long format.
