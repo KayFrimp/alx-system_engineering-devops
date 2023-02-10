@@ -7,3 +7,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 3. 2-groups prints all the groups the current user is part of.
 
 4. 3-new_owner chanhes owner of file hello to user betty.
+
+5. 4-empty creates an empty file called hello.
