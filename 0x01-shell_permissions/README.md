@@ -9,3 +9,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 4. 3-new_owner chanhes owner of file hello to user betty.
 
 5. 4-empty creates an empty file called hello.
+
+6. 5-execute adds execute permission to the owner of the file hello.
