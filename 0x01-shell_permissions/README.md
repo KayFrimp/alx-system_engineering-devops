@@ -13,3 +13,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 6. 5-execute adds execute permission to the owner of the file hello.
 
 7. 6-multiple_permissions adds execute permission to the owner and group owner and read permission to other users.
+
+8. 7-everybody adds execution permission to the ownerm the goup owner and the other users to the file hello.
