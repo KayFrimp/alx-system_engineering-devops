@@ -19,3 +19,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 9. 8-James_Bond sets the permission to the file helloe as follows: Owner: no permission at all, Group: no permission at all, and Other users: all the permissions.
 
 10. 9-Jphn_Doe sets the mode of hello file to -rwxr-x-wx.
+
+11. 10-mirror_permissions mirrors the permissions of another file.
