@@ -23,3 +23,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 11. 10-mirror_permissions mirrors the permissions of another file.
 
 12. 12-directory_permissions creates a directory and sets the permissions.
+
+13. 13-change_group changes group owner to school for the file hello.
