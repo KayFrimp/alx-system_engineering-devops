@@ -21,3 +21,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 10. 9-Jphn_Doe sets the mode of hello file to -rwxr-x-wx.
 
 11. 10-mirror_permissions mirrors the permissions of another file.
+
+12. 12-directory_permissions creates a directory and sets the permissions.
