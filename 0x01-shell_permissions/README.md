@@ -17,3 +17,5 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 8. 7-everybody adds execution permission to the ownerm the goup owner and the other users to the file hello.
 
 9. 8-James_Bond sets the permission to the file helloe as follows: Owner: no permission at all, Group: no permission at all, and Other users: all the permissions.
+
+10. 9-Jphn_Doe sets the mode of hello file to -rwxr-x-wx.
