@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 2 root root 4096 Feb 15 07:10 .
+drwxr-xr-x 6 root root  121 Feb 13 16:12 ..
+-rwxr--r-- 1 root root   32 Feb 13 16:19 0-hello_world
+-rwxr--r-- 1 root root   28 Feb 13 16:52 1-confused_smiley
+-rwxr--r-- 1 root root   29 Feb 13 16:51 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Feb 13 17:02 2-hellofile
+-rwxr--r-- 1 root root   39 Feb 14 21:08 3-twofiles
+-rwxr--r-- 1 root root   29 Feb 14 21:20 4-lastlines
+-rwxr--r-- 1 root root   28 Feb 14 21:19 4-lastlines~
+-rwxr--r-- 1 root root   29 Feb 14 21:39 5-firstlines
+-rw-r--r-- 1 root root   29 Feb 14 21:38 5-firstlines~
+-rwxr--r-- 1 root root   40 Feb 14 22:12 6-third_line
+-rwxr--r-- 1 root root  101 Feb 15 06:10 7-file
+-rwxr--r-- 1 root root   99 Feb 15 05:07 7-file~
+-rwxr--r-- 1 root root   36 Feb 15 06:47 8-cwd_state
+-rw-r--r-- 1 root root   12 Feb 15 06:12 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   43 Feb 13 16:57 .gitignore
+-rw-r--r-- 1 root root  801 Feb 14 22:10 iacta
+-rw-r--r-- 1 root root    0 Feb 15 07:11 ls_cwd_content
+-rw-r--r-- 1 root root  625 Feb 15 06:12 README.md
+-rw-r--r-- 1 root root   40 Feb 13 16:14 README.md~
