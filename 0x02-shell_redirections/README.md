@@ -10,3 +10,4 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 
 5. 4-lastlines displays the last 10 lines of /etc/passwd.
 
+6. 5-firstlines displays the first 10 lines of /etc/passwd.
