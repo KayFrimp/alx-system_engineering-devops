@@ -7,3 +7,6 @@ SEE THE DESCRIPTION OF MY SCRIPTS BELOW
 3. 2-hellofile displays the content of the /etc/passwd file.
 
 4. 3-twofiles displays contents of /etc/passwd and /etc/hosts.
+
+5. 4-lastlines displays the last 10 lines of /etc/passwd.
+
