@@ -1,3 +1,4 @@
+# Using puppet
 file { '~/ssh/config':
   ensure => 'present',
   content => "# SSH client configuration\n
