@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# Script transfers a file to your server
 # Parameter Key
 file_path="$1"
 ip="$2"
