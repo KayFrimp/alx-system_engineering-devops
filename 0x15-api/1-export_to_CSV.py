@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Script exports information on Employee to CSV"""
+import csv
 import requests
 import sys
-import csv
 
 
 if __name__ == "__main__":
