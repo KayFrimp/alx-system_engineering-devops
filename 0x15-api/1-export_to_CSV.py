@@ -12,7 +12,7 @@ if __name__ == "__main__":
     url = 'https://jsonplaceholder.typicode.com/'
     user_res = requests.get(f'{url}users/{user_id}')
     user_info = user_res.json()
-    name = user_info.get('name')
+    username = user_info.get('username')
 
     # Fetch todo data
     todo_res = requests.get(f'{url}todos?userId={user_id}')
@@ -25,5 +25,6 @@ if __name__ == "__main__":
                             quotechar='"', quoting=csv.QUOTE_ALL)
 
         for task in todo_info:
-            task = [user_id, name, task.get('completed'), task.get('title')]
+            task = [user_id, username,
+                    task.get('completed'), task.get('title')]
             writer.writerow(task)
