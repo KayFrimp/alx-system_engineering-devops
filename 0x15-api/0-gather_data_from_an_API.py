@@ -21,9 +21,7 @@ if __name__ == "__main__":
     done_tasks = len([task
                       for task in todo_info if task.get('completed') is True])
 
-    if name:
-        print(
-            f'Employee {name} is done with tasks({done_tasks}/{total_tasks}):')
-        for task in todo_info:
-            if task.get('completed'):
-                print('\t ' + task.get('title'))
+    print(f'Employee {name} is done with tasks({done_tasks}/{total_tasks}):')
+    for task in todo_info:
+        if task.get('completed'):
+            print('\t ' + task.get('title'))
